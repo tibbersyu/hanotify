@@ -1,0 +1,7 @@
+# github.com/chanxuehong/util v0.0.0-20200304121633-ca8141845b13
+github.com/chanxuehong/util/security
+# gopkg.in/chanxuehong/wechat.v1 v1.0.0-20171118020122-aad7e298d1e7
+gopkg.in/chanxuehong/wechat.v1/corp
+gopkg.in/chanxuehong/wechat.v1/corp/message/send
+gopkg.in/chanxuehong/wechat.v1/internal/util
+gopkg.in/chanxuehong/wechat.v1/json
